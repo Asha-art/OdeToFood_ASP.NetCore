@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOlXwFxptAvxiuLlSiBfkYsgD6U2QxOfDaAaJNaq6+mSHxpT8fEF9GW48h5gC8m4Hl5bfEzt6tB8oM7e+c9npw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ashak\\C#\\pluralsight\\OdeToFood1\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashak\\.nuget\\packages\\bootstrap\\5.1.0\\bootstrap.5.1.0.nupkg.sha512",
+    "C:\\Users\\ashak\\.nuget\\packages\\bootstrap.less\\3.4.1\\bootstrap.less.3.4.1.nupkg.sha512",
+    "C:\\Users\\ashak\\.nuget\\packages\\glyphicon\\1.0.1\\glyphicon.1.0.1.nupkg.sha512",
+    "C:\\Users\\ashak\\.nuget\\packages\\glyphicon.htmlhelper\\1.0.3\\glyphicon.htmlhelper.1.0.3.nupkg.sha512",
+    "C:\\Users\\ashak\\.nuget\\packages\\helpermethods.htmlhelper\\1.0.0\\helpermethods.htmlhelper.1.0.0.nupkg.sha512",
+    "C:\\Users\\ashak\\.nuget\\packages\\jquery\\1.9.1\\jquery.1.9.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Glyphicon.HTMLHelper 1.0.3 does not provide an inclusive lower bound for dependency HelperMethods.HTMLHelper. An approximate best match of HelperMethods.HTMLHelper 1.0.0 was resolved.",
+      "libraryId": "HelperMethods.HTMLHelper",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
